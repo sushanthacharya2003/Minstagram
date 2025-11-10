@@ -1,3 +1,5 @@
+Project DEMO VIDEO LINK - https://shorturl.at/a1TGZ
+
 # Instagram-like Social Media Mini Project
 
 A lightweight Instagram-inspired social media web application that allows users to create posts with images, like posts, and add comments. Built with vanilla JavaScript, HTML, and CSS.
