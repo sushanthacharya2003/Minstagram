@@ -1,4 +1,8 @@
+project live preview - https://hmln2s.csb.app/
 Project DEMO VIDEO LINK - https://shorturl.at/a1TGZ
+Screenshot 
+<img width="1037" height="579" alt="image" src="https://github.com/user-attachments/assets/40aa3005-6ee7-4b9b-8f40-4bc0dc58b44b" />
+
 
 # Instagram-like Social Media Mini Project
 
